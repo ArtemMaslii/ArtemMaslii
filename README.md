@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArtemMaslii
-- 👀 I’m interested in Java Soft
-- 🌱 I’m currently learning Java, C++
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Java, JS
 - 💞️ I’m looking to collaborate on some projects)
 - 📫 How to reach me maslijartei@gmail.com
 
